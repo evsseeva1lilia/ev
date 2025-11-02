@@ -1,0 +1,4 @@
+simple-cli-tool/
+├─ README.md
+├─ cli.py
+└─ .gitignore
